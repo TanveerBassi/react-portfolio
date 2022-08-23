@@ -65,7 +65,7 @@ export default function Contact() {
               {" "}
               Tanveer13a551@gmail.com{" "}
             </a>{" "}
-            or through the following form.
+            or feel free to send me a message.
           </p>
         </div>
 
@@ -78,7 +78,7 @@ export default function Contact() {
               name="name"
               onChange={handleInputChange}
               type="text"
-              placeholder="Example Name"
+              placeholder="Please enter your full name"
             />
           </div>
 
@@ -90,7 +90,7 @@ export default function Contact() {
               name="email"
               onChange={handleInputChange}
               type="email"
-              placeholder="example@email.com"
+              placeholder="Enter your e-mail address"
             />
           </div>
 
@@ -103,7 +103,7 @@ export default function Contact() {
               lable="Message"
               onChange={handleInputChange}
               type="text"
-              placeholder="message..."
+              placeholder="Send me a message :)"
             />
           </div>
 
