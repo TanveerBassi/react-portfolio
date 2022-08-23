@@ -3,3 +3,86 @@ body {
   color: whitesmoke !important;
   background-color: black !important;
 }
+
+/* home page  */
+.container {
+  position: relative;
+}
+
+#tsparticles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding: 0;
+  margin: 0;
+  z-index: 0;
+}
+
+.intro {
+  width: 100%;
+  text-align: center;
+  margin: 15% auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.navbar {
+  z-index: 1;
+  font-size: 20px;
+}
+
+.name {
+  font-size: 30px;
+  background: linear-gradient(to left, #00c853, #b2ff59) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+  color: transparent !important;
+}
+
+.hi {
+  font-size: 50px;
+  margin-bottom: 30px;
+  background: linear-gradient(to bottom, #00c853, #b2ff59);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.typing {
+  font-size: 30px;
+}
+.footer {
+  display: flex;
+  justify-content: right;
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+  z-index: 1;
+}
+
+.webicon {
+  height: 150px;
+  margin-top: 28px;
+}
+.icon {
+  height: 28px;
+  margin-right: 20px;
+}
+.copyright {
+  margin-bottom: 0;
+  text-align: center;
+  padding-top: 6px;
+}
+
+.title {
+  text-align: center;
+  margin: 50px auto;
+  font-size: 50px;
+  background: linear-gradient(to top, #00c853, #b2ff59);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
