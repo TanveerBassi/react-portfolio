@@ -257,3 +257,22 @@ textarea {
   font-weight: 600;
   letter-spacing: 0.7px;
 }
+
+/* about me page */
+.profile {
+  width: 370px;
+  height: 500px;
+  padding: 10px;
+  background: linear-gradient(to right, #00c853, #b2ff59);
+  box-shadow: 10px -10px 5px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 10px -10px 5px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 10px -10px 5px rgba(0, 0, 0, 0.6);
+  -o-box-shadow: 10px -10px 5px rgba(0, 0, 0, 0.6);
+  border-radius: 25px;
+}
+
+.description {
+  margin: 15px;
+  font-size: 18px;
+  padding: 20px;
+}

@@ -20,7 +20,7 @@ export default function Resume() {
               <span>JQuery</span>
               <span>Handlebars.js</span>
               <span>JSON</span>
-              <span>AJAX</span>
+              <span>OOP</span>
               <span>APIs</span>
               <span>The DOM</span>
             </div>
