@@ -21,7 +21,7 @@ export default function About() {
             </p>
             <p>
               I'm currently a finance professional looking to make the career
-              switch to tech. I'm currently working as a mortgage adviser and
+              switch to tech. Currently I'm working as a mortgage adviser and
               have previously worked a multitude of jobs in the finance sector
               from financial adviser to complaint handler.
             </p>
@@ -34,6 +34,19 @@ export default function About() {
               particularly like analysing business metrics and making data-based
               decisions and recommendations, leading to better rates of success.
             </p>
+          </div>
+          <div className="skill">
+            <h2>Hobbies</h2>
+            <div className="tag">
+              <span>Gym Goer</span>
+              <span>MMA</span>
+              <span>Reading</span>
+              <span>Anime</span>
+              <span>Poker</span>
+              <span>Travelling</span>
+              <span>Family</span>
+              <span>Friends</span>
+            </div>
           </div>
         </Col>
       </Row>

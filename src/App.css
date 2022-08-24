@@ -262,7 +262,7 @@ textarea {
 .profile {
   width: 370px;
   height: 500px;
-  padding: 10px;
+  padding: 4px;
   background: linear-gradient(to right, #00c853, #b2ff59);
   box-shadow: 10px -10px 5px rgba(0, 0, 0, 0.6);
   -moz-box-shadow: 10px -10px 5px rgba(0, 0, 0, 0.6);
