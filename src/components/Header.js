@@ -11,7 +11,7 @@ export default function Header(props) {
       expand="sm"
       aria-current="true"
     >
-      <Navbar.Brand href="/portfolio-React" className="name">
+      <Navbar.Brand href="/" className="name">
         {" "}
         &lt; Tanveer /&gt;
       </Navbar.Brand>
