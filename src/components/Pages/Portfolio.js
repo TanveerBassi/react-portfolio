@@ -1,7 +1,7 @@
 import React from "react";
 import Project from "../Project";
 // import images
-import planner from "../../assets/images/planner.png";
+import book from "../../assets/images/book.png";
 import buddy from "../../assets/images/buddy.png";
 import weather from "../../assets/images/weather.png";
 import quiz from "../../assets/images/quiz.png";
@@ -19,12 +19,12 @@ export default function Portfolio() {
       deploy: "https://limitless-citadel-05906.herokuapp.com/",
     },
     {
-      title: "Work Day Scheduler 🔗",
+      title: "Google Book search engine 🔗",
       descriiption:
-        "A calender app used for scheduling your work day. Allowing you to time block between 9am to 6pm.",
-      image: planner,
-      github: "https://github.com/TanveerBassi/day-planner/tree/dev",
-      deploy: "https://tanveerbassi.github.io/day-planner/",
+        "Google Books API search engine built with a GraphQL API built with Apollo Server. Using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server.",
+      image: book,
+      github: "https://github.com/TanveerBassi/book-search-engine/tree/dev",
+      deploy: "https://lit-mountain-59743.herokuapp.com/",
     },
     {
       title: "Virtual Holiday 🔗",
