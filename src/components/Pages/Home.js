@@ -1,8 +1,6 @@
 import React from "react";
 import Typed from "react-typed";
 import webIcon from "../../assets/icons/web.png";
-// import Particles from "react-tsparticles";
-// import { loadLinksPreset } from "tsparticles-preset-links";
 import Footer from "../Footer";
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
@@ -11,9 +9,6 @@ import { useCallback } from "react";
 export default function Home() {
   const particlesInit = useCallback(async (engine) => {
     console.log(engine);
-    // you can initiate the tsParticles instance (engine) here, adding custom shapes or presets
-    // this loads the tsparticles package bundle, it's the easiest method for getting everything ready
-    // starting from v2 you can add only the features you need reducing the bundle size
     await loadFull(engine);
   }, []);
 
@@ -43,7 +38,7 @@ export default function Home() {
           options={{
             background: {
               color: {
-                value: "#0d47a1",
+                value: "000000",
               },
             },
             fpsLimit: 120,
@@ -71,10 +66,10 @@ export default function Home() {
             },
             particles: {
               color: {
-                value: "#ffffff",
+                value: "00c853",
               },
               links: {
-                color: "#ffffff",
+                color: "#b2ff59",
                 distance: 150,
                 enable: true,
                 opacity: 0.5,
@@ -113,12 +108,6 @@ export default function Home() {
             detectRetina: true,
           }}
         />
-        {/* <Particles
-          options={{
-            preset: "links",
-          }}
-          init={particlesInit}
-        /> */}
       </div>
       <Footer />
     </div>
