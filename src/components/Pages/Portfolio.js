@@ -7,6 +7,9 @@ import weather from "../../assets/images/weather.png";
 import quiz from "../../assets/images/quiz.png";
 import holiday from "../../assets/images/holiday.png";
 import password from "../../assets/images/password.png";
+import portfolio from "../../assets/images/portfolio.png";
+import jate from "../../assets/images/jate.png";
+import nosql from "../../assets/images/nosql.png";
 
 export default function Portfolio() {
   const projects = [
@@ -36,6 +39,22 @@ export default function Portfolio() {
     },
 
     {
+      title: "Portfolio 🔗",
+      descriiption: "Portfolio created using react to display my projects",
+      image: portfolio,
+      github: "https://github.com/TanveerBassi/react-portfolio/tree/dev",
+      deploy: "https://tanveerbassi.github.io/react-portfolio/",
+    },
+    {
+      title: "Text Editor 🔗",
+      descriiption:
+        "A text editor that runs in the browser as a single-page application that meets the PWA criteria",
+      image: jate,
+      github: "https://github.com/TanveerBassi/jate",
+      deploy: "https://fathomless-refuge-55776.herokuapp.com/",
+    },
+
+    {
       title: "Weather Dashboard 🔗",
       descriiption:
         "A weather app that provides weather outlook for multiple cities.",
@@ -51,9 +70,19 @@ export default function Portfolio() {
       deploy: "https://tanveerbassi.github.io/quiz-app/",
     },
     {
+      title: "NOSQL-social-network-api 🔗",
+      descriiption:
+        "An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+      image: nosql,
+      github:
+        "https://github.com/TanveerBassi/NOSQL-social-network-api/tree/dev",
+      deploy:
+        "https://github.com/TanveerBassi/NOSQL-social-network-api/tree/dev",
+    },
+    {
       title: "Password Generator 🔗",
       descriiption:
-        "This project is about creating a password generator which includes elements of HTML, CSS and JavaScript.",
+        "An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
       image: password,
       github: "https://github.com/TanveerBassi/password-generator/tree/dev",
       deploy: "https://tanveerbassi.github.io/password-generator/",
