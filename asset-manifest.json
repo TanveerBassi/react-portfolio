@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.eafcdaa6.css",
-    "main.js": "/react-portfolio/static/js/main.4054da94.js",
+    "main.js": "/react-portfolio/static/js/main.fa5b2156.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/T.png": "/react-portfolio/static/media/T.1dfb9a4217b837f2add0.png",
     "static/media/book.png": "/react-portfolio/static/media/book.f6498ab479d198c84c83.png",
@@ -9,19 +9,21 @@
     "static/media/buddy.png": "/react-portfolio/static/media/buddy.7925cb7a95a8916c3427.png",
     "static/media/Resume_tb.pdf": "/react-portfolio/static/media/Resume_tb.e958bd9eb6fa8ea68084.pdf",
     "static/media/weather.png": "/react-portfolio/static/media/weather.243ef8d77888356cfe2f.png",
+    "static/media/portfolio.png": "/react-portfolio/static/media/portfolio.2d97f2184ae874c71087.png",
     "static/media/password.png": "/react-portfolio/static/media/password.824b2f8b20908bba680d.png",
     "static/media/quiz.png": "/react-portfolio/static/media/quiz.0f0894b748c9001210b3.png",
+    "static/media/jate.png": "/react-portfolio/static/media/jate.f589f9b88ca35cd6c327.png",
     "static/media/web.png": "/react-portfolio/static/media/web.0e684ece43c50732dabf.png",
     "static/media/send.png": "/react-portfolio/static/media/send.dda6d72ae9aede755a83.png",
     "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.9e038773f5fee7cf1b48.png",
     "static/media/email.png": "/react-portfolio/static/media/email.90057c5e00dc5fd81766.png",
     "index.html": "/react-portfolio/index.html",
     "main.eafcdaa6.css.map": "/react-portfolio/static/css/main.eafcdaa6.css.map",
-    "main.4054da94.js.map": "/react-portfolio/static/js/main.4054da94.js.map",
+    "main.fa5b2156.js.map": "/react-portfolio/static/js/main.fa5b2156.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eafcdaa6.css",
-    "static/js/main.4054da94.js"
+    "static/js/main.fa5b2156.js"
   ]
 }
