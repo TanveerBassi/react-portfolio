@@ -1,7 +1,7 @@
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import myImage from "../../assets/images/T.png";
+import myImage from "../../assets/images/T.jpg";
 
 export default function About() {
   return (
