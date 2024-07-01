@@ -1,37 +1,37 @@
 import React from "react";
-import Typed from "react-typed";
+// import Typed from "react-typed";
 import webIcon from "../../assets/icons/web.png";
 import Footer from "../Footer";
-import Particles from "react-tsparticles";
-import { loadFull } from "tsparticles";
-import { useCallback } from "react";
+// import Particles from "react-tsparticles";
+// import { loadFull } from "tsparticles";
+// import { useCallback } from "react";
 
 export default function Home() {
-  const particlesInit = useCallback(async (engine) => {
-    console.log(engine);
-    await loadFull(engine);
-  }, []);
+  // const particlesInit = useCallback(async (engine) => {
+  //   console.log(engine);
+  //   await loadFull(engine);
+  // }, []);
 
-  const particlesLoaded = useCallback(async (container) => {
-    await console.log(container);
-  }, []);
+  // const particlesLoaded = useCallback(async (container) => {
+  //   await console.log(container);
+  // }, []);
   return (
     <div>
       <div className="container">
         <div className="intro">
           <h1 className="hi">Hi, I am Tanveer Bassi</h1>
-          <Typed
+          {/* <Typed
             className="typing"
             strings={["Full Stack Developer", "Finance Professional"]}
             typeSpeed={80}
             backSpeed={30}
             loop
-          />
+          /> */}
           <div>
             <img src={webIcon} className="webicon" alt="web development icon" />{" "}
           </div>
         </div>
-        <Particles
+        {/* <Particles
           id="tsparticles"
           init={particlesInit}
           loaded={particlesLoaded}
@@ -107,7 +107,7 @@ export default function Home() {
             },
             detectRetina: true,
           }}
-        />
+        /> */}
       </div>
       <Footer />
     </div>
