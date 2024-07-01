@@ -1,5 +1,5 @@
-import React, { useCallback, useEffect, useState } from "react";
-// import Typed from "react-typed";
+import React, { useEffect, useState } from "react";
+import { ReactTyped } from "react-typed";
 import webIcon from "../../assets/icons/web.png";
 import Footer from "../Footer";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
@@ -32,13 +32,13 @@ export default function Home() {
       <div className="container">
         <div className="intro">
           <h1 className="hi">Hi, I am Tanveer Bassi</h1>
-          {/* <Typed
+          <ReactTyped
             className="typing"
-            strings={["Full Stack Developer", "Finance Professional"]}
+            strings={["Web Developer", "Web Designer"]}
             typeSpeed={80}
             backSpeed={30}
             loop
-          /> */}
+          />
           <div>
             <img src={webIcon} className="webicon" alt="web development icon" />{" "}
           </div>
