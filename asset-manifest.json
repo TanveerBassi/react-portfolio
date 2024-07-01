@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.02691a71.css",
-    "main.js": "/react-portfolio/static/js/main.e3431471.js",
-    "static/media/T.png": "/react-portfolio/static/media/T.1dfb9a4217b837f2add0.png",
+    "main.css": "/react-portfolio/static/css/main.cb33e057.css",
+    "main.js": "/react-portfolio/static/js/main.c63fd9d7.js",
     "static/media/book.png": "/react-portfolio/static/media/book.f6498ab479d198c84c83.png",
     "static/media/holiday.png": "/react-portfolio/static/media/holiday.8c764a2d577623cbf913.png",
     "static/media/buddy.png": "/react-portfolio/static/media/buddy.7925cb7a95a8916c3427.png",
@@ -11,17 +10,18 @@
     "static/media/portfolio.png": "/react-portfolio/static/media/portfolio.2d97f2184ae874c71087.png",
     "static/media/password.png": "/react-portfolio/static/media/password.824b2f8b20908bba680d.png",
     "static/media/quiz.png": "/react-portfolio/static/media/quiz.0f0894b748c9001210b3.png",
+    "static/media/T.jpg": "/react-portfolio/static/media/T.66a291c577c8ffbdcda7.jpg",
     "static/media/jate.png": "/react-portfolio/static/media/jate.f589f9b88ca35cd6c327.png",
     "static/media/web.png": "/react-portfolio/static/media/web.0e684ece43c50732dabf.png",
     "static/media/send.png": "/react-portfolio/static/media/send.dda6d72ae9aede755a83.png",
     "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.9e038773f5fee7cf1b48.png",
     "static/media/email.png": "/react-portfolio/static/media/email.90057c5e00dc5fd81766.png",
     "index.html": "/react-portfolio/index.html",
-    "main.02691a71.css.map": "/react-portfolio/static/css/main.02691a71.css.map",
-    "main.e3431471.js.map": "/react-portfolio/static/js/main.e3431471.js.map"
+    "main.cb33e057.css.map": "/react-portfolio/static/css/main.cb33e057.css.map",
+    "main.c63fd9d7.js.map": "/react-portfolio/static/js/main.c63fd9d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.02691a71.css",
-    "static/js/main.e3431471.js"
+    "static/css/main.cb33e057.css",
+    "static/js/main.c63fd9d7.js"
   ]
 }
